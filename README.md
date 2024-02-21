@@ -1,5 +1,4 @@
-## unmaintained needs contributors or maintainer
-
+## I forked only to fix unable to download through TTY3 as in instructions after verifying through browser login
 
 # Openbox-wm Setup and Theme for EndeavourOS
 
